@@ -32,11 +32,11 @@ const YourProject = () => {
                     </div>
 
                     {btnText && (
-                      <div className="your-project-one__single-btn">
-                        <a href="/contact" className="thm-btn">
-                          {btnText}
-                        </a>
-                      </div>
+                      <Link href="/contact" passHref>
+                      <button className="thm-btn">
+                        {btnText}
+                      </button>
+                    </Link>
                     )}
                   </li>
                 ))}
