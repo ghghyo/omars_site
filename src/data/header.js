@@ -7,9 +7,7 @@ import logo2 from "@/images/resources/mobilemenu_logo.png";
 export const servicesNavItems = [
 
   { id: 4, name: "Floor Refinishing", href: "/services-single-2" },
-  { id: 5, name: "Luxury Vinyl Plank", href: "/services-single-3" },
-  { id: 6, name: "Emergency Door Repair", href: "/services-single-4" },
-  { id: 7, name: "Heavy Industry & Mining", href: "/services-single-5" },
+  { id: 5, name: "Luxury Vinyl Plank", href: "/services-single-2" },
 ];
 
 const navItems = [
@@ -80,43 +78,25 @@ const navItems = [
 ];
 
 export const socials = [
-  {
-    id: 1,
-    icon: "fab fa-facebook",
-    href: "#",
-  },
+
   {
     id: 2,
-    icon: "fab fa-linkedin",
-    href: "#",
-  },
-  {
-    id: 3,
-    icon: "fab fa-pinterest-p",
-    href: "#",
+    icon: "fab fa-facebook-square",
+    href: "https://www.facebook.com/share/1AGVZ72Tst/?mibextid=wwXIfr",
   },
   {
     id: 4,
-    icon: "fab fa-google",
-    href: "#",
+    icon: "fab fa-instagram",
+    href: "https://www.instagram.com/elevated_designs.co?igsh=MW9jcnhxcXhwcTYzbQ%3D%3D&utm_source=qr",
   },
 ];
 
 export const socials3 = [
-  {
-    id: 1,
-    icon: "fab fa-twitter",
-    href: "#",
-  },
+
   {
     id: 2,
     icon: "fab fa-facebook-square",
-    href: "#",
-  },
-  {
-    id: 3,
-    icon: "fab fa-pinterest-p",
-    href: "#",
+    href: "https://www.facebook.com/share/1AGVZ72Tst/?mibextid=wwXIfr",
   },
   {
     id: 4,

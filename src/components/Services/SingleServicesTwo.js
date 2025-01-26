@@ -15,7 +15,7 @@ const SingleServicesTwo = ({ service = {} }) => {
       </div>
       <div className="services-two__single-content text-center">
         <h2>
-          <Link href="/services-single-1">{title}</Link>
+          <Link href="/services-single-2">{title}</Link>
         </h2>
         <p>{text}</p>
       </div>

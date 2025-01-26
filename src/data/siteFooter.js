@@ -7,23 +7,14 @@ export const socials2 = [
   {
     id: 1,
     icon: "fab fa-facebook",
-    href: "#",
+    href: "https://www.facebook.com/share/1AGVZ72Tst/?mibextid=wwXIfr",
   },
   {
     id: 2,
     icon: "fab fa-instagram",
-    href: "#",
+    href: "https://www.instagram.com/elevated_designs.co?igsh=MW9jcnhxcXhwcTYzbQ%3D%3D&utm_source=qr",
   },
-  {
-    id: 3,
-    icon: "fab fa-twitter",
-    href: "#",
-  },
-  {
-    id: 4,
-    icon: "fab fa-linkedin",
-    href: "#",
-  },
+
 ];
 
 const footerData = {

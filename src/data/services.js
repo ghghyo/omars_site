@@ -121,8 +121,8 @@ export const servicesSingleSidebar = {
   icon: "icon-wood-board",
   contactTitle: "Quality Flooring at \n a Fair Price",
   callText: "Call us for a FREE quote!",
-  phone: "(501) 103-7840",
-  phoneHref: "666888000",
+  phone: "7192376871",
+  phoneHref: "7192376871",
   title: "Flooring Services",
 };
 
