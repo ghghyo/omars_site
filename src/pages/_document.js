@@ -23,25 +23,25 @@ class MyDocument extends Document {
     return (
       <Html lang="en">
         <Head>
-          <link rel="icon" href="favicon.ico" />
-          <link rel="shortcut icon" href="favicon.ico" type="image/png" />
+          <link rel="icon" href="logo.jpg" />
+          <link rel="shortcut icon" href="logo.jpg" type="image/jpg" />
 
           <link
             rel="apple-touch-icon"
             sizes="180x180"
-            href="apple-touch-icon.png"
+            href="logo.jpg"
           />
           <link
             rel="icon"
-            type="image/png"
+            type="image/jpg"
             sizes="32x32"
-            href="favicon-32x32.png"
+            href="logo.jpg"
           />
           <link
             rel="icon"
-            type="image/png"
+            type="image/jpg"
             sizes="16x16"
-            href="favicon-16x16.png"
+            href="logo.jpg"
           />
           <link rel="manifest" href="manifest.json" />
           <meta
