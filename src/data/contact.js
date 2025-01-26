@@ -13,11 +13,11 @@ export const contactOne = {
 export const contactPage = {
   title: "Stay in touch with us",
   text: "You can also reach out to us by phone \n or email are many variations",
-  phone: "+8801682648101",
-  phoneHref: "123456789",
-  mobile: "02 9292101",
-  address: "Nice House, 2/21 City Road \n Hoxton, N1 6NG, CA",
-  formTitle: "Send a message",
+  phone: "+17192376871",
+  phoneHref: "7192376871",
+  mobile: "7192376871",
+  address: "Fairfax, VA",
+  formTitle: "Send a messa",
   formText:
     "Lorem ipsum dolor sit amet consectetur adipiscing elit. \n Ut blandit arcu in pretium.",
 };

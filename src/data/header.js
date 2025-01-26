@@ -5,13 +5,7 @@ import logo3 from "@/images/resources/logo-2.png";
 import logo2 from "@/images/resources/mobilemenu_logo.png";
 
 export const servicesNavItems = [
-  { id: 1, name: "Services", href: "/services" },
-  { id: 2, name: "Services Two", href: "/services-2" },
-  {
-    id: 3,
-    name: "Floor Demolition Installation",
-    href: "/services-single-1",
-  },
+
   { id: 4, name: "Floor Refinishing", href: "/services-single-2" },
   { id: 5, name: "Luxury Vinyl Plank", href: "/services-single-3" },
   { id: 6, name: "Emergency Door Repair", href: "/services-single-4" },
@@ -53,7 +47,7 @@ const navItems = [
   {
     id: 3,
     name: "Services",
-    href: "/services",
+    href: "/services-single-2",
     subNavItems: servicesNavItems,
   },
   // {

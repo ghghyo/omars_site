@@ -11,7 +11,6 @@ const Contact = () => {
   return (
     <Layout pageTitle="Contact">
       <Header className="main-header--one--two" />
-      <PageHeader title="Contact us" page="Contact" bg={bg} />
       <GoogleMap />
       <ContactPage />
       <SiteFooter />

@@ -37,25 +37,28 @@ export const aboutTwo = {
   image2: image4,
   videoId: "p25gICT63ek",
   tagline: "Why Choose Us",
-  title: "We are a modern \nFlooring agency...",
-  text: "Alori is a full-service Florring company. Our established systems allow us to deliver industry-leading landscape solutions to commercial and residential clients.",
+  title: "We are a Modern Flooring Agency",
+  text: "Elevated Designs is a full-service flooring company, committed to delivering industry-leading solutions for both residential and commercial clients. Our established systems and expertise allow us to offer a wide range of flooring options, from classic hardwood to contemporary tile and luxury vinyl plank. We pride ourselves on solving complex flooring challenges, ensuring that every project, big or small, is completed to the highest standards of quality and efficiency.",
   text2:
-    "Dictum fusce ut placerat orci nulla. Amet aliquam cenas ultricies. Facilisis sed odio morbi quis magnis",
+    "We understand that choosing the right flooring is a big decision, which is why we offer a range of solutions designed to fit your needs and budget. Our experienced team guides you through every step of the process—from consultation and design to installation and finishing—ensuring you receive a seamless and hassle-free experience.",
   lists: [
     {
       id: 1,
       icon: "icon-wood-board",
       title: "Hardwood Floor Care Center",
+      text: "Our team specializes in the care, repair, and installation of hardwood floors, ensuring your investment lasts for years.",
     },
     {
       id: 2,
       icon: "icon-customer-satisfaction-1",
-      title: "High-Quality Floorings At Great Prices",
+      title: "High-Quality Flooring at Competitive Prices",
+      text: "We provide top-notch flooring products at prices that are both fair and competitive, making quality flooring accessible for all.",
     },
     {
       id: 3,
       icon: "icon-wood",
-      title: "We solve complex flooring issues",
+      title: "Solving Complex Flooring Issues",
+      text: "Whether it’s uneven surfaces, difficult layouts, or specific material needs, our expert team finds solutions to complex flooring challenges.",
     },
   ],
 };

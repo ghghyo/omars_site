@@ -138,8 +138,29 @@ const AboutOne = ({
             </Carousel.Item>
             <Carousel.Item>
               <Image
-                src="/IMG_0510.jpg"
+                src="/IMG_3715.jpg"
                 alt="Image 4"
+                style={{ width: "100%", height: "auto" }}
+              />
+            </Carousel.Item>
+            <Carousel.Item>
+              <Image
+                src="/IMG_4196.jpg"
+                alt="Image 5"
+                style={{ width: "100%", height: "auto" }}
+              />
+            </Carousel.Item>
+            <Carousel.Item>
+              <Image
+                src="/IMG_8065.jpg"
+                alt="Image 6"
+                style={{ width: "100%", height: "auto" }}
+              />
+            </Carousel.Item>
+            <Carousel.Item>
+              <Image
+                src="/IMG_9402.jpg"
+                alt="Image 7"
                 style={{ width: "100%", height: "auto" }}
               />
             </Carousel.Item>
