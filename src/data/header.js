@@ -101,7 +101,7 @@ export const socials3 = [
   {
     id: 4,
     icon: "fab fa-instagram",
-    href: "#",
+    href: "https://www.instagram.com/elevated_designs.co?igsh=MW9jcnhxcXhwcTYzbQ%3D%3D&utm_source=qr",
   },
 ];
 
