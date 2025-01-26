@@ -30,7 +30,7 @@ const BestLogistics = ({ className = "" }) => {
                         <span className="odometer">
                           <VisibilityCountUp count={count} />
                         </span>
-                        {isK && <span className="k">k</span>}
+                        {isK && <span className="k"></span>}
                         <span
                           className={`fa fa-plus plus-icon${
                             !isK ? " pd-l" : ""
@@ -53,11 +53,6 @@ const BestLogistics = ({ className = "" }) => {
                   <p>{bottomText}</p>
                 </div>
 
-                <div className="best-logistics-one__content-bottom-btn">
-                  <a href="#" className="thm-btn">
-                    Learn More
-                  </a>
-                </div>
               </div>
             </div>
           </Col>

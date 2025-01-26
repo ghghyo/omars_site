@@ -32,12 +32,12 @@ const footerData = {
   logo,
   bg,
   bg2,
-  address: "48 10h Street, Office 478 Road 5\n Berlin, CA 700156",
+  address: "Fairfax VA",
   checkText: "I agree to the Privacy Policy.",
-  email: "infogamil@gmail.com",
-  phone: "81 282 11 101",
-  phoneHref: "123456789",
-  callText: "Schedule a free case evaluation. \n or call us at",
+  email: "habash.omarrr@gmail.com",
+  phone: "7192376871",
+  phoneHref: "7192376871",
+  callText: "Schedule a free quote. \n or call us at",
   socials: socials2,
   links: [
     {
@@ -96,16 +96,6 @@ const footerData = {
     {
       id: 1,
       text: "About Site",
-      href: "/about",
-    },
-    {
-      id: 2,
-      text: "Careers",
-      href: "/about",
-    },
-    {
-      id: 3,
-      text: "Privacy Policy",
       href: "/about",
     },
   ],

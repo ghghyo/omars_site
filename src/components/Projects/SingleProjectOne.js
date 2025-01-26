@@ -17,11 +17,11 @@ const SingleProjectOne = ({ project = {} }) => {
         <div className="projects-one__single-content">
           <span>{tagline}</span>
           <h2>
-            <Link href="/portfolio-single">{title}</Link>
+            <Link href="/services-single-1">{title}</Link>
           </h2>
           <p>{text}</p>
           <div className="btn-box">
-            <Link href="/portfolio-single">
+            <Link href="/services-single-2">
               <span className="icon-next"></span>
             </Link>
           </div>

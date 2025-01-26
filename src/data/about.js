@@ -10,13 +10,13 @@ export const aboutOne = {
   image2,
   videoId: "p25gICT63ek",
   tagline: "Why Choose Us",
-  title: "About agori Solutions \n flooring company",
-  text: "Slando is a full-service landscape company. Our established systems allow us to deliver industry-leading landscape \n solutions to commercial and residential clients.",
+  title: "About Elevated Designs flooring company",
+  text: "At Elevated Designs, we specialize in exceptional flooring and home remodeling services designed to elevate your Northern Virginia home. From laminate/LVP and elegant tile flooring to complete kitchen and bathroom transformations, our team delivers stunning results tailored to your style and needs. ",
   lists: [
     {
       id: 1,
       icon: "icon-wood-board",
-      title: "Hardwood Floor Repair",
+      title: "New Flooring",
     },
     {
       id: 2,
@@ -26,7 +26,7 @@ export const aboutOne = {
     {
       id: 3,
       icon: "icon-kitchen",
-      title: "We bring our showroom to your home.",
+      title: "Kitchen Remodeling.",
     },
   ],
 };

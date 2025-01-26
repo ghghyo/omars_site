@@ -26,14 +26,25 @@ const Link = ({
     shallow,
     prefetch,
     locale,
-    legacyBehavior,
+    legacyBehavior, // Keep legacy behavior here
     as,
   };
+
+  if (legacyBehavior) {
+    // With legacyBehavior, use the <a> tag
+    return (
+      <NextLink {...linkProps}>
+        <a href={typeof href === "string" ? href : href.href} {...props}>
+          {children}
+        </a>
+      </NextLink>
+    );
+  }
+
+  // Without legacyBehavior, do not wrap in <a>
   return (
     <NextLink {...linkProps}>
-      <a href={typeof href === "string" ? href : href.href} {...props}>
-        {children}
-      </a>
+      {children}
     </NextLink>
   );
 };

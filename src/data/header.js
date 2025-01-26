@@ -23,27 +23,27 @@ const navItems = [
     id: 1,
     name: "Home",
     href: "/",
-    subNavItems: [
-      {
-        id: 1,
-        name: "Home One",
-        href: "/",
-      },
-      {
-        id: 2,
-        name: "Home Two",
-        href: "/index-2",
-      },
-      {
-        id: 3,
-        name: "Header Styles",
-        href: "",
-        subItems: [
-          { id: 1, name: "Header One", href: "/" },
-          { id: 2, name: "Header Two", href: "/index-2" },
-        ],
-      },
-    ],
+    // subNavItems: [
+    //   {
+    //     id: 1,
+    //     name: "Home One",
+    //     href: "/",
+    //   },
+    //   {
+    //     id: 2,
+    //     name: "Home Two",
+    //     href: "/index-2",
+    //   },
+    //   {
+    //     id: 3,
+    //     name: "Header Styles",
+    //     href: "",
+    //     subItems: [
+    //       { id: 1, name: "Header One", href: "/" },
+    //       { id: 2, name: "Header Two", href: "/index-2" },
+    //     ],
+    //   },
+    // ],
   },
   {
     id: 2,
@@ -56,28 +56,28 @@ const navItems = [
     href: "/services",
     subNavItems: servicesNavItems,
   },
-  {
-    id: 4,
-    name: "Page",
-    href: "",
-    subNavItems: [
-      { id: 1, name: "Portfolio", href: "/portfolio" },
-      { id: 2, name: "Portfolio Two", href: "/portfolio-2" },
-      { id: 3, name: "Portfolio Single", href: "/portfolio-single" },
-      { id: 4, name: "Team", href: "/team" },
-      { id: 5, name: "Error", href: "/404" },
-    ],
-  },
-  {
-    id: 5,
-    name: "Blog",
-    href: "/blog",
-    subNavItems: [
-      { id: 1, name: "Blog", href: "/blog" },
-      { id: 2, name: "Blog Two", href: "/blog-2" },
-      { id: 3, name: "Blog Single", href: "/blog-single" },
-    ],
-  },
+  // {
+  //   id: 4,
+  //   name: "Page",
+  //   href: "",
+  //   subNavItems: [
+  //     { id: 1, name: "Portfolio", href: "/portfolio" },
+  //     { id: 2, name: "Portfolio Two", href: "/portfolio-2" },
+  //     { id: 3, name: "Portfolio Single", href: "/portfolio-single" },
+  //     { id: 4, name: "Team", href: "/team" },
+  //     { id: 5, name: "Error", href: "/404" },
+  //   ],
+  // },
+  // {
+  //   id: 5,
+  //   name: "Blog",
+  //   href: "/blog",
+  //   subNavItems: [
+  //     { id: 1, name: "Blog", href: "/blog" },
+  //     { id: 2, name: "Blog Two", href: "/blog-2" },
+  //     { id: 3, name: "Blog Single", href: "/blog-single" },
+  //   ],
+  // },
   {
     id: 6,
     name: "Contact",
@@ -132,9 +132,9 @@ export const socials3 = [
 ];
 
 const info = {
-  phone: "+88 016848651",
-  phoneHref: "123456789",
-  email: "infogamil@gmail.com",
+  phone: "+17192376871",
+  phoneHref: "7192376871",
+  email: "habash.omarrr@gmail.com",
 };
 
 const header = {
@@ -155,11 +155,11 @@ export const mobileNav = {
 export const hiddenBar = {
   logo,
   aboutText:
-    "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s,",
-  address: "48 10h Street, Office 478 Road 5 \n Berlin, CA 700156",
+    "VA Flooring and Home Renovation Company",
+  address: "Fairfax VA",
   ...info,
   year: new Date().getFullYear(),
-  author: "Alori",
+  author: "Elevated Designs",
 };
 
 export const pageHeaderThree = {

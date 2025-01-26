@@ -55,23 +55,7 @@ const HiddenBar = () => {
             </li>
           </ul>
         </div>
-        <div className="newsletter-form-box">
-          <h3>Newsletter Subscribe</h3>
-          <form onSubmit={handleSubmit(onSubmit)}>
-            <Row>
-              <Col xl={12}>
-                <input
-                  type="email"
-                  name="email"
-                  placeholder="Email Address..."
-                />
-                <button type="submit">
-                  <i className="fa fa-paper-plane" aria-hidden="true"></i>
-                </button>
-              </Col>
-            </Row>
-          </form>
-        </div>
+
         <div className="copy-right-text">
           <p>
             © {author} {year}, All Rights Reserved.

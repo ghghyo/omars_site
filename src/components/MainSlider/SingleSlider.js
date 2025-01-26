@@ -31,11 +31,7 @@ const SingleSlider = ({ slide = {}, sliderTwo = false }) => {
                 as="h2"
                 className="main-slider-one__title"
               />
-              <div className="main-slider-one__btn">
-                <Link href="#" className="thm-btn">
-                  {sliderTwo ? "Find Product" : "Our Solution"}
-                </Link>
-              </div>
+
             </div>
           </Col>
         </Row>

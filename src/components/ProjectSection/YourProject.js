@@ -33,7 +33,7 @@ const YourProject = () => {
 
                     {btnText && (
                       <div className="your-project-one__single-btn">
-                        <a href="#" className="thm-btn">
+                        <a href="/contact" className="thm-btn">
                           {btnText}
                         </a>
                       </div>

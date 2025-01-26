@@ -21,17 +21,17 @@ const Home = () => {
     <Layout>
       <Header />
       <MainSlider />
-      <YourProject />
+        <YourProject />
       <AboutOne aboutData={aboutOne} />
       <BestLogistics />
       <ServicesOne itemsCount={3} />
-      <OurMaterial />
+      {/* <OurMaterial /> */}
       <WorkOne />
       <ProjectsOne showTop projectsCount={4} />
-      <VideoOne />
-      <ContactOne />
+      {/* <VideoOne /> */}
+      {/* <ContactOne /> */}
       <TestimonialOne />
-      <BlogOne blogsCount={3} />
+      {/* <BlogOne blogsCount={3} /> */}
       <SiteFooter />
     </Layout>
   );

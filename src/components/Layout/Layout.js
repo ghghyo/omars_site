@@ -5,7 +5,7 @@ import MobileNav from "../Header/MobileNav";
 import Preloader from "./Preloader";
 import ScrollToTop from "./ScrollToTop";
 
-const Layout = ({ children, pageTitle = "Home One" }) => {
+const Layout = ({ children, pageTitle = "Elevated Design" }) => {
   const [loading, setLoading] = useState(true);
 
   useEffect(() => {
@@ -20,7 +20,7 @@ const Layout = ({ children, pageTitle = "Home One" }) => {
     <>
       <Head>
         <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-        <title>{pageTitle} || Alori || Responsive NextJS Template.</title>
+        <title>{pageTitle} </title>
       </Head>
       <Preloader loading={loading} />
       <main

@@ -23,7 +23,7 @@ const SingleProjectTwo = ({ project = {} }) => {
               </h2>
             </div>
             <div className="button">
-              <Link href="/portfolio-single">
+              <Link href="/portfolio-sin">
                 <span className="icon-next"></span>
               </Link>
             </div>
